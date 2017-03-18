@@ -1,0 +1,131 @@
+ProgTube - Free Online Programming Courses
+==========================================
+
+This is a list of programming courses that are available for free. We separated this courses by categories.
+
+### [Web Development](https://prog.tube/courses/web-development)
+
+- [Laravel 5.3 for Beginners](https://prog.tube/laravel-53-for-beginners) (38 videos, 4 hours 55 minutes)
+
+- [Vue 2.0 and Laravel 5.3](https://prog.tube/vue-20-and-laravel-53) (21 videos, 3 hours 27 minutes)
+
+- [Does it React?](https://prog.tube/does-it-react) (5 videos, 19 minutes)
+
+- [Laravel 5.3 & Sentinel](https://prog.tube/laravel-53-sentinel) (20 videos, 3 hours 9 minutes)
+
+- [Vue 2.0 for Beginners](https://prog.tube/vue-20-for-beginners) (5 videos, 24 minutes)
+
+- [Laravel 5.1 for beginners](https://prog.tube/laravel-51-for-beginners) (8 videos, 2 hours 13 minutes)
+
+- [Laravel + Angular 2 / Vue.js 2](https://prog.tube/laravel-angular-2-vuejs-2) (30 videos, 3 hours 39 minutes)
+
+- [Node.js Tutorials for Beginners](https://prog.tube/nodejs-tutorials-for-beginners) (22 videos, 2 hours 54 minutes)
+
+- [Node JS Tutorial for Beginners](https://prog.tube/node-js-tutorial-for-beginners) (37 videos, 4 hours 32 minutes)
+
+- [Node.js Basics](https://prog.tube/nodejs-basics) (18 videos, 2 hours 55 minutes)
+
+### [Mobile Apps](https://prog.tube/courses/mobile-apps)
+
+- [Android Apps Development Bangla Tutorial by Mosharrof Rubel](https://prog.tube/android-apps-development-bangla-tutorial-by-mosharrof-rubel) (30 videos, 7 hours 9 minutes)
+
+- [Android Studio - Firebase Backend Tutorial Full Course](https://prog.tube/android-studio-firebase-backend-tutorial-full-course) (40 videos, 7 hours 47 minutes)
+
+- [Android Firebase Tutorials - Full Backend Course](https://prog.tube/android-firebase-tutorials-full-backend-course) (16 videos, 1 hours 26 minutes)
+
+- [Xamarin Android Tutorial - Advanced](https://prog.tube/xamarin-android-tutorial-advanced) (45 videos, 15 hours 7 minutes)
+
+- [Google Map API Tutorial](https://prog.tube/google-map-api-tutorial) (15 videos, 3 hours 47 minutes)
+
+- [SQLite in Mobile Development](https://prog.tube/sqlite-in-mobile-development) (5 videos, 2 hours 15 minutes)
+
+- [NoSQL Mobile Development](https://prog.tube/nosql-mobile-development) (2 videos, 2 hours 16 minutes)
+
+- [Realictis App Development](https://prog.tube/realictis-app-development) (27 videos, 17 hours 43 minutes)
+
+- [Stanford - Developing iOS 9 Apps with Swift \[2016\]](https://prog.tube/stanford-developing-ios-9-apps-with-swift-2016) (18 videos, 22 hours 35 minutes)
+
+- [How To Make an iPhone App with No Programming Experience (Xcode 7)](https://prog.tube/how-to-make-an-iphone-app-with-no-programming-experience-xcode-7) (17 videos, 3 hours 46 minutes)
+
+- [How To Make iPhone Apps With No Programming Experience (Xcode 8, Swift 3)](https://prog.tube/how-to-make-iphone-apps-with-no-programming-experience-xcode-8-swift-3) (18 videos, 3 hours 37 minutes)
+
+### [Programming Languages](https://prog.tube/courses/programming-languages)
+
+- [PHP Tutorial for Beginners (For Absolute Beginners)](https://prog.tube/php-tutorial-for-beginners-for-absolute-beginners) (34 videos, 10 hours 58 minutes)
+
+- [PHP Tutorials](https://prog.tube/php-tutorials) (50 videos, 4 hours 19 minutes)
+
+- [PHP Tutorial in Filipino](https://prog.tube/php-tutorial-in-filipino) (50 videos, 6 hours 47 minutes)
+
+- [How to program in C# - Beginner Course](https://prog.tube/how-to-program-in-c-beginner-course) (15 videos, 3 hours 55 minutes)
+
+- [Spring Boot Tutorial - Java Brains](https://prog.tube/spring-boot-tutorial-java-brains) (34 videos, 3 hours 18 minutes)
+
+- [Developing RESTful APIs with JAX-RS](https://prog.tube/developing-restful-apis-with-jax-rs) (31 videos, 6 hours 5 minutes)
+
+- [Advanced JAX-RS](https://prog.tube/advanced-jax-rs) (27 videos, 3 hours)
+
+- [Introduction to JavaScript for Developers](https://prog.tube/introduction-to-javascript-for-developers) (46 videos, 3 hours 19 minutes)
+
+- [JavaScript Scopes and Closures In-depth](https://prog.tube/javascript-scopes-and-closures-in-depth) (23 videos, 2 hours 25 minutes)
+
+- [JavaScript Objects and Prototypes In-depth](https://prog.tube/javascript-objects-and-prototypes-in-depth) (19 videos, 2 hours 15 minutes)
+
+### [Game Development](https://prog.tube/courses/game-development)
+
+- [GameMaker: Studio - Android Tutorial Series](https://prog.tube/gamemaker-studio-android-tutorial-series) (7 videos, 1 hours 47 minutes)
+
+- [Java ( Android Studio ) Game Tutorial - Catch the Ball -](https://prog.tube/java-android-studio-game-tutorial-catch-the-ball) (11 videos, 59 minutes)
+
+- [Making a Multiplayer FPS in Unity](https://prog.tube/making-a-multiplayer-fps-in-unity) (32 videos, 14 hours 6 minutes)
+
+- [How to make a 2D Platformer - Unity Course](https://prog.tube/how-to-make-a-2d-platformer-unity-course) (36 videos, 13 hours 38 minutes)
+
+- [How to make a 2D Game - Unity 4.3 Course](https://prog.tube/how-to-make-a-2d-game-unity-43-course) (10 videos, 2 hours 23 minutes)
+
+- [How to make a Survival Game - Unity Course](https://prog.tube/how-to-make-a-survival-game-unity-course) (38 videos, 11 hours 23 minutes)
+
+- [Make a Game - Unity Course](https://prog.tube/make-a-game-unity-course) (27 videos, 9 hours 14 minutes)
+
+### [Databases](https://prog.tube/courses/databases)
+
+- [Cassandra Tutorial Videos](https://prog.tube/cassandra-tutorial-videos) (24 videos, 14 hours 13 minutes)
+
+- [NoSQL - HBase for Java Developers](https://prog.tube/nosql-hbase-for-java-developers) (9 videos, 2 hours 49 minutes)
+
+- [MongoDB Dev & Admin Tutorial Videos](https://prog.tube/mongodb-dev-admin-tutorial-videos) (21 videos, 9 hours 17 minutes)
+
+- [Learning Redis Tutorial](https://prog.tube/learning-redis-tutorial) (10 videos, 59 minutes)
+
+### [Software Testing](https://prog.tube/courses/software-testing)
+
+- [Testing with Selenium Webdriver Tutorial Videos](https://prog.tube/testing-with-selenium-webdriver-tutorial-videos) (17 videos, 16 hours 32 minutes)
+
+### [Software Engineering](https://prog.tube/courses/software-engineering)
+
+- [Agile Scrum Master Training Videos](https://prog.tube/agile-scrum-master-training-videos) (24 videos, 7 hours 6 minutes)
+
+- [Hadoop For Beginners (Big Data)](https://prog.tube/hadoop-for-beginners-big-data) (38 videos, 22 hours 19 minutes)
+
+- [Get started with AWS Lambda](https://prog.tube/get-started-with-aws-lambda) (9 videos, 1 hours 4 minutes)
+
+- [Docker Tutorials](https://prog.tube/docker-tutorials) (10 videos, 1 hours 23 minutes)
+
+- [Understanding ABC of Docker](https://prog.tube/understanding-abc-of-docker) (9 videos, 1 hours 25 minutes)
+
+### [E-Commerce](https://prog.tube/courses/e-commerce)
+
+- [Shopify POS Tutorials](https://prog.tube/shopify-pos-tutorials) (9 videos, 21 minutes)
+
+- [Magento Community Tutorials (Step by Step)](https://prog.tube/magento-community-tutorials-step-by-step) (24 videos, 3 hours 34 minutes)
+
+### [Development Tools](https://prog.tube/courses/development-tools)
+
+- [PHP - PHPStorm Tutorials](https://prog.tube/php-phpstorm-tutorials) (7 videos, 31 minutes)
+
+- [Atom editor tutorial](https://prog.tube/atom-editor-tutorial) (24 videos, 1 hours 58 minutes)
+
+Contributing
+------------
+
+This list is an auto-generated list. If you want to contribute, write us an [email](mailto:info@prog.tube).
