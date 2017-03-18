@@ -25,6 +25,8 @@ This is a list of programming courses that are available for free. We separated 
 
 - [Node.js Basics](https://prog.tube/nodejs-basics) (18 videos, 2 hours 55 minutes)
 
+- [Symfony 3](https://prog.tube/symfony-3) (4 videos, 1 hours 18 minutes)
+
 ### [Mobile Apps](https://prog.tube/courses/mobile-apps)
 
 - [Android Apps Development Bangla Tutorial by Mosharrof Rubel](https://prog.tube/android-apps-development-bangla-tutorial-by-mosharrof-rubel) (30 videos, 7 hours 9 minutes)
