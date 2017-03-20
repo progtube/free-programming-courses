@@ -27,6 +27,24 @@ This is a list of programming courses that are available for free. We separated 
 
 - [Symfony 3](https://prog.tube/symfony-3) (4 videos, 1 hours 18 minutes)
 
+- [Angular 2 & Firebase App Series](https://prog.tube/angular-2-firebase-app-series) (7 videos, 1 hours 53 minutes)
+
+- [Codeigniter Blog App](https://prog.tube/codeigniter-blog-app) (5 videos, 2 hours 34 minutes)
+
+- [MEAN Stack Front To Back](https://prog.tube/mean-stack-front-to-back) (10 videos, 3 hours 7 minutes)
+
+- [Build A Website With Foundation and Sass](https://prog.tube/build-a-website-with-foundation-and-sass) (3 videos, 1 hours 23 minutes)
+
+- [Twitter Bootstrap](https://prog.tube/twitter-bootstrap) (3 videos, 3 hours 18 minutes)
+
+- [Angular 2 Spotify App](https://prog.tube/angular-2-spotify-app) (8 videos, 1 hours 37 minutes)
+
+- [Node.js & PostgreSQL Recipe App](https://prog.tube/nodejs-postgresql-recipe-app) (7 videos, 1 hours 2 minutes)
+
+- [Building an Ember.js App](https://prog.tube/building-an-emberjs-app) (3 videos, 54 minutes)
+
+- [Build An HTML5 Template With Bootstrap & SASS](https://prog.tube/build-an-html5-template-with-bootstrap-sass) (11 videos, 3 hours 41 minutes)
+
 ### [Mobile Apps](https://prog.tube/courses/mobile-apps)
 
 - [Android Apps Development Bangla Tutorial by Mosharrof Rubel](https://prog.tube/android-apps-development-bangla-tutorial-by-mosharrof-rubel) (30 videos, 7 hours 9 minutes)
@@ -51,6 +69,8 @@ This is a list of programming courses that are available for free. We separated 
 
 - [How To Make iPhone Apps With No Programming Experience (Xcode 8, Swift 3)](https://prog.tube/how-to-make-iphone-apps-with-no-programming-experience-xcode-8-swift-3) (18 videos, 3 hours 37 minutes)
 
+- [Ionic Mobile Framework](https://prog.tube/ionic-mobile-framework) (4 videos, 39 minutes)
+
 ### [Programming Languages](https://prog.tube/courses/programming-languages)
 
 - [PHP Tutorial for Beginners (For Absolute Beginners)](https://prog.tube/php-tutorial-for-beginners-for-absolute-beginners) (34 videos, 10 hours 58 minutes)
@@ -72,6 +92,22 @@ This is a list of programming courses that are available for free. We separated 
 - [JavaScript Scopes and Closures In-depth](https://prog.tube/javascript-scopes-and-closures-in-depth) (23 videos, 2 hours 25 minutes)
 
 - [JavaScript Objects and Prototypes In-depth](https://prog.tube/javascript-objects-and-prototypes-in-depth) (19 videos, 2 hours 15 minutes)
+
+- [PHP Front To Back](https://prog.tube/php-front-to-back) (15 videos, 3 hours 14 minutes)
+
+- [jQuery Crash Course](https://prog.tube/jquery-crash-course) (5 videos, 1 hours 41 minutes)
+
+- [JavaScript ES6 / ES2015 Tutorials](https://prog.tube/javascript-es6-es2015-tutorials) (11 videos, 1 hours 22 minutes)
+
+- [Angular 2 Tutorials](https://prog.tube/angular-2-tutorials) (7 videos, 1 hours 7 minutes)
+
+- [Zend Framework 2](https://prog.tube/zend-framework-2) (6 videos, 54 minutes)
+
+- [Learning React.js](https://prog.tube/learning-reactjs) (10 videos, 1 hours 18 minutes)
+
+- [Flux & React.js](https://prog.tube/flux-reactjs) (4 videos, 49 minutes)
+
+- [FuelPHP](https://prog.tube/fuelphp) (2 videos, 1 hours 2 minutes)
 
 ### [Game Development](https://prog.tube/courses/game-development)
 
@@ -98,6 +134,8 @@ This is a list of programming courses that are available for free. We separated 
 - [MongoDB Dev & Admin Tutorial Videos](https://prog.tube/mongodb-dev-admin-tutorial-videos) (21 videos, 9 hours 17 minutes)
 
 - [Learning Redis Tutorial](https://prog.tube/learning-redis-tutorial) (10 videos, 59 minutes)
+
+- [CouchDB Tutorials](https://prog.tube/couchdb-tutorials) (2 videos, 59 minutes)
 
 ### [Software Testing](https://prog.tube/courses/software-testing)
 
