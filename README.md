@@ -45,6 +45,8 @@ This is a list of programming courses that are available for free. We separated 
 
 - [Build An HTML5 Template With Bootstrap & SASS](https://prog.tube/build-an-html5-template-with-bootstrap-sass) (11 videos, 3 hours 41 minutes)
 
+- [Webpack Tutorials for Beginners](https://prog.tube/webpack-tutorials-for-beginners) (6 videos, 39 minutes)
+
 ### [Mobile Apps](https://prog.tube/courses/mobile-apps)
 
 - [Android Apps Development Bangla Tutorial by Mosharrof Rubel](https://prog.tube/android-apps-development-bangla-tutorial-by-mosharrof-rubel) (30 videos, 7 hours 9 minutes)
@@ -70,6 +72,8 @@ This is a list of programming courses that are available for free. We separated 
 - [How To Make iPhone Apps With No Programming Experience (Xcode 8, Swift 3)](https://prog.tube/how-to-make-iphone-apps-with-no-programming-experience-xcode-8-swift-3) (18 videos, 3 hours 37 minutes)
 
 - [Ionic Mobile Framework](https://prog.tube/ionic-mobile-framework) (4 videos, 39 minutes)
+
+- [Firebase 3 Integration with Swift](https://prog.tube/firebase-3-integration-with-swift) (7 videos, 1 hours 34 minutes)
 
 ### [Programming Languages](https://prog.tube/courses/programming-languages)
 
@@ -108,6 +112,12 @@ This is a list of programming courses that are available for free. We separated 
 - [Flux & React.js](https://prog.tube/flux-reactjs) (4 videos, 49 minutes)
 
 - [FuelPHP](https://prog.tube/fuelphp) (2 videos, 1 hours 2 minutes)
+
+- [Development with Electron Atom](https://prog.tube/development-with-electron-atom) (18 videos, 3 hours)
+
+- [Qt Tutorials For Beginners](https://prog.tube/qt-tutorials-for-beginners) (33 videos, 13 hours 30 minutes)
+
+- [Go Programming Tutorials (golang)](https://prog.tube/go-programming-tutorials-golang) (19 videos, 1 hours 47 minutes)
 
 ### [Game Development](https://prog.tube/courses/game-development)
 
@@ -152,6 +162,8 @@ This is a list of programming courses that are available for free. We separated 
 - [Docker Tutorials](https://prog.tube/docker-tutorials) (10 videos, 1 hours 23 minutes)
 
 - [Understanding ABC of Docker](https://prog.tube/understanding-abc-of-docker) (9 videos, 1 hours 25 minutes)
+
+- [Elasticsearch - Logstash - Kibana (ELK Stack)](https://prog.tube/elasticsearch-logstash-kibana-elk-stack) (5 videos, 31 minutes)
 
 ### [E-Commerce](https://prog.tube/courses/e-commerce)
 
