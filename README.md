@@ -17,7 +17,7 @@ This is a list of programming courses that are available for free. We separated 
 
 - [Laravel 5.1 for beginners](https://prog.tube/laravel-51-for-beginners) (8 videos, 2 hours 13 minutes)
 
-- [Laravel + Angular 2 / Vue.js 2](https://prog.tube/laravel-angular-2-vuejs-2) (30 videos, 3 hours 39 minutes)
+- [Laravel + Angular 2 / Vue.js 2](https://prog.tube/laravel-angular-2-vuejs-2) (19 videos, 3 hours 39 minutes)
 
 - [Node.js Tutorials for Beginners](https://prog.tube/nodejs-tutorials-for-beginners) (22 videos, 2 hours 54 minutes)
 
@@ -47,6 +47,18 @@ This is a list of programming courses that are available for free. We separated 
 
 - [Webpack Tutorials for Beginners](https://prog.tube/webpack-tutorials-for-beginners) (6 videos, 39 minutes)
 
+- [Django Tutorials for Beginners](https://prog.tube/django-tutorials-for-beginners) (40 videos, 4 hours 56 minutes)
+
+- [Angular 2 for Beginners Tutorials](https://prog.tube/angular-2-for-beginners-tutorials) (9 videos, 1 hours 2 minutes)
+
+- [PHP & MySQL Tutorial Videos](https://prog.tube/php-mysql-tutorial-videos) (27 videos, 14 hours 48 minutes)
+
+- [Front End Web Development Tutorial Videos](https://prog.tube/front-end-web-development-tutorial-videos) (7 videos, 5 hours 48 minutes)
+
+- [AngularJS Tutorial Videos](https://prog.tube/angularjs-tutorial-videos) (17 videos, 15 hours 33 minutes)
+
+- [Angular 2 with Webpack Project Setup](https://prog.tube/angular-2-with-webpack-project-setup) (5 videos, 48 minutes)
+
 ### [Mobile Apps](https://prog.tube/courses/mobile-apps)
 
 - [Android Apps Development Bangla Tutorial by Mosharrof Rubel](https://prog.tube/android-apps-development-bangla-tutorial-by-mosharrof-rubel) (30 videos, 7 hours 9 minutes)
@@ -63,7 +75,7 @@ This is a list of programming courses that are available for free. We separated 
 
 - [NoSQL Mobile Development](https://prog.tube/nosql-mobile-development) (2 videos, 2 hours 16 minutes)
 
-- [Realictis App Development](https://prog.tube/realictis-app-development) (27 videos, 17 hours 43 minutes)
+- [Realictis App Development](https://prog.tube/realictis-app-development) (28 videos, 19 hours 5 minutes)
 
 - [Stanford - Developing iOS 9 Apps with Swift \[2016\]](https://prog.tube/stanford-developing-ios-9-apps-with-swift-2016) (18 videos, 22 hours 35 minutes)
 
@@ -75,11 +87,15 @@ This is a list of programming courses that are available for free. We separated 
 
 - [Firebase 3 Integration with Swift](https://prog.tube/firebase-3-integration-with-swift) (7 videos, 1 hours 34 minutes)
 
+- [Ionic for Beginners](https://prog.tube/ionic-for-beginners) (22 videos, 5 hours 4 minutes)
+
+- [Android Video Tutorial - Lollipop 5.0](https://prog.tube/android-video-tutorial-lollipop-50) (7 videos, 6 hours 5 minutes)
+
 ### [Programming Languages](https://prog.tube/courses/programming-languages)
 
 - [PHP Tutorial for Beginners (For Absolute Beginners)](https://prog.tube/php-tutorial-for-beginners-for-absolute-beginners) (34 videos, 10 hours 58 minutes)
 
-- [PHP Tutorials](https://prog.tube/php-tutorials) (50 videos, 4 hours 19 minutes)
+- [PHP Tutorials](https://prog.tube/php-tutorials) (69 videos, 6 hours 13 minutes)
 
 - [PHP Tutorial in Filipino](https://prog.tube/php-tutorial-in-filipino) (50 videos, 6 hours 47 minutes)
 
@@ -97,7 +113,7 @@ This is a list of programming courses that are available for free. We separated 
 
 - [JavaScript Objects and Prototypes In-depth](https://prog.tube/javascript-objects-and-prototypes-in-depth) (19 videos, 2 hours 15 minutes)
 
-- [PHP Front To Back](https://prog.tube/php-front-to-back) (15 videos, 3 hours 14 minutes)
+- [PHP Front To Back](https://prog.tube/php-front-to-back) (19 videos, 4 hours 11 minutes)
 
 - [jQuery Crash Course](https://prog.tube/jquery-crash-course) (5 videos, 1 hours 41 minutes)
 
@@ -118,6 +134,22 @@ This is a list of programming courses that are available for free. We separated 
 - [Qt Tutorials For Beginners](https://prog.tube/qt-tutorials-for-beginners) (33 videos, 13 hours 30 minutes)
 
 - [Go Programming Tutorials (golang)](https://prog.tube/go-programming-tutorials-golang) (19 videos, 1 hours 47 minutes)
+
+- [ECMAScript 6 / ES6 New Features Tutorials](https://prog.tube/ecmascript-6-es6-new-features-tutorials) (7 videos, 49 minutes)
+
+- [React JS / Redux Tutorials](https://prog.tube/react-js-redux-tutorials) (11 videos, 1 hours 30 minutes)
+
+- [React JS Tutorials for Beginners](https://prog.tube/react-js-tutorials-for-beginners) (13 videos, 1 hours 26 minutes)
+
+- [Perl Scripting Tutorial Videos](https://prog.tube/perl-scripting-tutorial-videos) (11 videos, 11 hours 36 minutes)
+
+- [Apache Spark and Scala Tutorial Videos](https://prog.tube/apache-spark-and-scala-tutorial-videos) (39 videos, 6 hours 46 minutes)
+
+- [Spring Framework Tutorial Videos](https://prog.tube/spring-framework-tutorial-videos) (10 videos, 10 hours 53 minutes)
+
+- [Node.Js Tutorial Videos](https://prog.tube/nodejs-tutorial-videos) (15 videos, 13 hours 45 minutes)
+
+- [Java/J2EE & SOA Tutorial Videos](https://prog.tube/javaj2ee-soa-tutorial-videos) (54 videos, 11 hours 46 minutes)
 
 ### [Game Development](https://prog.tube/courses/game-development)
 
@@ -147,9 +179,15 @@ This is a list of programming courses that are available for free. We separated 
 
 - [CouchDB Tutorials](https://prog.tube/couchdb-tutorials) (2 videos, 59 minutes)
 
+- [Hibernate Tutorial Videos](https://prog.tube/hibernate-tutorial-videos) (7 videos, 3 hours 34 minutes)
+
+- [Apache Solr Tutorial Videos](https://prog.tube/apache-solr-tutorial-videos) (16 videos, 15 hours 5 minutes)
+
 ### [Software Testing](https://prog.tube/courses/software-testing)
 
-- [Testing with Selenium Webdriver Tutorial Videos](https://prog.tube/testing-with-selenium-webdriver-tutorial-videos) (17 videos, 16 hours 32 minutes)
+- [Testing with Selenium Webdriver Tutorial Videos](https://prog.tube/testing-with-selenium-webdriver-tutorial-videos) (23 videos, 2 hours 51 minutes)
+
+- [Software Testing Videos](https://prog.tube/software-testing-videos) (9 videos, 5 hours 12 minutes)
 
 ### [Software Engineering](https://prog.tube/courses/software-engineering)
 
@@ -165,6 +203,12 @@ This is a list of programming courses that are available for free. We separated 
 
 - [Elasticsearch - Logstash - Kibana (ELK Stack)](https://prog.tube/elasticsearch-logstash-kibana-elk-stack) (5 videos, 31 minutes)
 
+- [Hadoop Administration Training Videos](https://prog.tube/hadoop-administration-training-videos) (26 videos, 22 minutes)
+
+- [Python For Big Data Analytics Tutorial Videos](https://prog.tube/python-for-big-data-analytics-tutorial-videos) (49 videos, 11 hours 12 minutes)
+
+- [Kubernetes Webinars](https://prog.tube/kubernetes-webinars) (8 videos, 7 hours 56 minutes)
+
 ### [E-Commerce](https://prog.tube/courses/e-commerce)
 
 - [Shopify POS Tutorials](https://prog.tube/shopify-pos-tutorials) (9 videos, 21 minutes)
@@ -176,6 +220,8 @@ This is a list of programming courses that are available for free. We separated 
 - [PHP - PHPStorm Tutorials](https://prog.tube/php-phpstorm-tutorials) (7 videos, 31 minutes)
 
 - [Atom editor tutorial](https://prog.tube/atom-editor-tutorial) (24 videos, 1 hours 58 minutes)
+
+- [Gulp (Gulp.js) Tutorials for Beginners](https://prog.tube/gulp-gulpjs-tutorials-for-beginners) (4 videos, 31 minutes)
 
 Contributing
 ------------
