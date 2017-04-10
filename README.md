@@ -59,6 +59,12 @@ This is a list of programming courses that are available for free. We separated 
 
 - [Angular 2 with Webpack Project Setup](https://prog.tube/angular-2-with-webpack-project-setup) (5 videos, 48 minutes)
 
+- [Vue.js 2.0 and Laravel 5.3](https://prog.tube/vuejs-20-and-laravel-53) (28 videos, 5 hours 25 minutes)
+
+- [Learning Vuejs](https://prog.tube/learning-vuejs) (18 videos, 3 hours 11 minutes)
+
+- [Single page application using Angular JS and Laravel](https://prog.tube/single-page-application-using-angular-js-and-laravel) (18 videos, 3 hours 59 minutes)
+
 ### [Mobile Apps](https://prog.tube/courses/mobile-apps)
 
 - [Android Apps Development Bangla Tutorial by Mosharrof Rubel](https://prog.tube/android-apps-development-bangla-tutorial-by-mosharrof-rubel) (30 videos, 7 hours 9 minutes)
