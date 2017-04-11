@@ -29,7 +29,7 @@ This is a list of programming courses that are available for free. We separated 
 
 - [Angular 2 & Firebase App Series](https://prog.tube/angular-2-firebase-app-series) (7 videos, 1 hours 53 minutes)
 
-- [Codeigniter Blog App](https://prog.tube/codeigniter-blog-app) (5 videos, 2 hours 34 minutes)
+- [Codeigniter Blog App](https://prog.tube/codeigniter-blog-app) (7 videos, 3 hours 35 minutes)
 
 - [MEAN Stack Front To Back](https://prog.tube/mean-stack-front-to-back) (10 videos, 3 hours 7 minutes)
 
@@ -135,7 +135,7 @@ This is a list of programming courses that are available for free. We separated 
 
 - [FuelPHP](https://prog.tube/fuelphp) (2 videos, 1 hours 2 minutes)
 
-- [Development with Electron Atom](https://prog.tube/development-with-electron-atom) (18 videos, 3 hours)
+- [Development with Electron Atom](https://prog.tube/development-with-electron-atom) (22 videos, 3 hours 58 minutes)
 
 - [Qt Tutorials For Beginners](https://prog.tube/qt-tutorials-for-beginners) (33 videos, 13 hours 30 minutes)
 
@@ -153,9 +153,9 @@ This is a list of programming courses that are available for free. We separated 
 
 - [Spring Framework Tutorial Videos](https://prog.tube/spring-framework-tutorial-videos) (10 videos, 10 hours 53 minutes)
 
-- [Node.Js Tutorial Videos](https://prog.tube/nodejs-tutorial-videos) (15 videos, 13 hours 45 minutes)
+- [Node.Js Tutorial Videos](https://prog.tube/nodejs-tutorial-videos) (16 videos, 15 hours 6 minutes)
 
-- [Java/J2EE & SOA Tutorial Videos](https://prog.tube/javaj2ee-soa-tutorial-videos) (54 videos, 11 hours 46 minutes)
+- [Java/J2EE & SOA Tutorial Videos](https://prog.tube/javaj2ee-soa-tutorial-videos) (55 videos, 12 hours 57 minutes)
 
 ### [Game Development](https://prog.tube/courses/game-development)
 
