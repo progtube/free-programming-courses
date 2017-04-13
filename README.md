@@ -65,6 +65,10 @@ This is a list of programming courses that are available for free. We separated 
 
 - [Single page application using Angular JS and Laravel](https://prog.tube/single-page-application-using-angular-js-and-laravel) (18 videos, 3 hours 59 minutes)
 
+- [How to Build a Blog with Laravel](https://prog.tube/how-to-build-a-blog-with-laravel) (54 videos, 2 hours 32 minutes)
+
+- [Vue.js Fundamentals](https://prog.tube/vuejs-fundamentals) (10 videos, 2 hours 37 minutes)
+
 ### [Mobile Apps](https://prog.tube/courses/mobile-apps)
 
 - [Android Apps Development Bangla Tutorial by Mosharrof Rubel](https://prog.tube/android-apps-development-bangla-tutorial-by-mosharrof-rubel) (30 videos, 7 hours 9 minutes)
