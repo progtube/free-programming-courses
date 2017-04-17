@@ -35,7 +35,7 @@ This is a list of programming courses that are available for free. We separated 
 
 - [Build A Website With Foundation and Sass](https://prog.tube/build-a-website-with-foundation-and-sass) (3 videos, 1 hours 23 minutes)
 
-- [Twitter Bootstrap](https://prog.tube/twitter-bootstrap) (3 videos, 3 hours 18 minutes)
+- [Twitter Bootstrap](https://prog.tube/twitter-bootstrap) (4 videos, 3 hours 54 minutes)
 
 - [Angular 2 Spotify App](https://prog.tube/angular-2-spotify-app) (8 videos, 1 hours 37 minutes)
 
@@ -133,7 +133,7 @@ This is a list of programming courses that are available for free. We separated 
 
 - [NoSQL Mobile Development](https://prog.tube/nosql-mobile-development) (2 videos, 2 hours 16 minutes)
 
-- [Realictis App Development](https://prog.tube/realictis-app-development) (28 videos, 19 hours 5 minutes)
+- [Realictis App Development](https://prog.tube/realictis-app-development) (29 videos, 19 hours 28 minutes)
 
 - [Stanford - Developing iOS 9 Apps with Swift \[2016\]](https://prog.tube/stanford-developing-ios-9-apps-with-swift-2016) (18 videos, 22 hours 35 minutes)
 
@@ -261,7 +261,7 @@ This is a list of programming courses that are available for free. We separated 
 
 - [GameMaker: Studio - Android Tutorial Series](https://prog.tube/gamemaker-studio-android-tutorial-series) (7 videos, 1 hours 47 minutes)
 
-- [Java ( Android Studio ) Game Tutorial - Catch the Ball -](https://prog.tube/java-android-studio-game-tutorial-catch-the-ball) (11 videos, 59 minutes)
+- [Java ( Android Studio ) Game Tutorial - Catch the Ball -](https://prog.tube/java-android-studio-game-tutorial-catch-the-ball) (13 videos, 1 hours 15 minutes)
 
 - [Making a Multiplayer FPS in Unity](https://prog.tube/making-a-multiplayer-fps-in-unity) (32 videos, 14 hours 6 minutes)
 
