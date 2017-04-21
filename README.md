@@ -7,7 +7,7 @@ This is a list of programming courses that are available for free. We separated 
 
 - [Laravel 5.3 for Beginners](https://prog.tube/laravel-53-for-beginners) (38 videos, 4 hours 55 minutes)
 
-- [Vue 2.0 and Laravel 5.3](https://prog.tube/vue-20-and-laravel-53) (21 videos, 3 hours 27 minutes)
+- [Vue 2.0 and Laravel 5.3](https://prog.tube/vue-20-and-laravel-53) (22 videos, 3 hours 40 minutes)
 
 - [Does it React?](https://prog.tube/does-it-react) (5 videos, 19 minutes)
 
@@ -179,7 +179,7 @@ This is a list of programming courses that are available for free. We separated 
 
 - [JavaScript Objects and Prototypes In-depth](https://prog.tube/javascript-objects-and-prototypes-in-depth) (19 videos, 2 hours 15 minutes)
 
-- [PHP Front To Back](https://prog.tube/php-front-to-back) (19 videos, 4 hours 11 minutes)
+- [PHP Front To Back](https://prog.tube/php-front-to-back) (20 videos, 4 hours 30 minutes)
 
 - [jQuery Crash Course](https://prog.tube/jquery-crash-course) (5 videos, 1 hours 41 minutes)
 
