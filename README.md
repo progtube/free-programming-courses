@@ -9,7 +9,7 @@ This is a list of programming courses that are available for free. We separated 
 
 - [Vue 2.0 and Laravel 5.3](https://prog.tube/vue-20-and-laravel-53) (22 videos, 3 hours 40 minutes)
 
-- [Does it React?](https://prog.tube/does-it-react) (5 videos, 19 minutes)
+- [Does it React?](https://prog.tube/does-it-react) (7 videos, 23 minutes)
 
 - [Laravel 5.3 & Sentinel](https://prog.tube/laravel-53-sentinel) (20 videos, 3 hours 9 minutes)
 
