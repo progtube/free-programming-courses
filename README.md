@@ -29,7 +29,7 @@ This is a list of programming courses that are available for free. We separated 
 
 - [Angular 2 & Firebase App Series](https://prog.tube/angular-2-firebase-app-series) (7 videos, 1 hours 53 minutes)
 
-- [Codeigniter Blog App](https://prog.tube/codeigniter-blog-app) (7 videos, 3 hours 35 minutes)
+- [Codeigniter Blog App](https://prog.tube/codeigniter-blog-app) (8 videos, 3 hours 57 minutes)
 
 - [MEAN Stack Front To Back](https://prog.tube/mean-stack-front-to-back) (10 videos, 3 hours 7 minutes)
 
@@ -179,7 +179,7 @@ This is a list of programming courses that are available for free. We separated 
 
 - [JavaScript Objects and Prototypes In-depth](https://prog.tube/javascript-objects-and-prototypes-in-depth) (19 videos, 2 hours 15 minutes)
 
-- [PHP Front To Back](https://prog.tube/php-front-to-back) (20 videos, 4 hours 30 minutes)
+- [PHP Front To Back](https://prog.tube/php-front-to-back) (21 videos, 4 hours 56 minutes)
 
 - [jQuery Crash Course](https://prog.tube/jquery-crash-course) (5 videos, 1 hours 41 minutes)
 
@@ -352,6 +352,12 @@ This is a list of programming courses that are available for free. We separated 
 - [Build+Deploy+Test with Jenkins 2.0](https://prog.tube/builddeploytest-with-jenkins-20) (21 videos, 3 hours 2 minutes)
 
 - [Computer Science and Software Engineering Theory with Briana](https://prog.tube/computer-science-and-software-engineering-theory-with-briana) (43 videos, 1 hours 17 minutes)
+
+- [Machine Learning Tutorials](https://prog.tube/machine-learning-tutorials) (3 videos, 23 minutes)
+
+- [Kibana Tutorials](https://prog.tube/kibana-tutorials) (3 videos, 46 minutes)
+
+- [Elasticsearch](https://prog.tube/elasticsearch) (10 videos, 1 hours 51 minutes)
 
 ### [E-Commerce](https://prog.tube/courses/e-commerce)
 
