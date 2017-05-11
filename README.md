@@ -179,7 +179,7 @@ This is a list of programming courses that are available for free. We separated 
 
 - [JavaScript Objects and Prototypes In-depth](https://prog.tube/javascript-objects-and-prototypes-in-depth) (19 videos, 2 hours 15 minutes)
 
-- [PHP Front To Back](https://prog.tube/php-front-to-back) (21 videos, 4 hours 56 minutes)
+- [PHP Front To Back](https://prog.tube/php-front-to-back) (22 videos, 5 hours 32 minutes)
 
 - [jQuery Crash Course](https://prog.tube/jquery-crash-course) (5 videos, 1 hours 41 minutes)
 
