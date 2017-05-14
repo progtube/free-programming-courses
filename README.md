@@ -55,7 +55,7 @@ This is a list of programming courses that are available for free. We separated 
 
 - [Front End Web Development Tutorial Videos](https://prog.tube/front-end-web-development-tutorial-videos) (7 videos, 5 hours 48 minutes)
 
-- [AngularJS Tutorial Videos](https://prog.tube/angularjs-tutorial-videos) (17 videos, 15 hours 33 minutes)
+- [AngularJS Tutorial Videos](https://prog.tube/angularjs-tutorial-videos) (19 videos, 17 hours 40 minutes)
 
 - [Angular 2 with Webpack Project Setup](https://prog.tube/angular-2-with-webpack-project-setup) (5 videos, 48 minutes)
 
@@ -69,9 +69,9 @@ This is a list of programming courses that are available for free. We separated 
 
 - [Vue.js Fundamentals](https://prog.tube/vuejs-fundamentals) (10 videos, 2 hours 37 minutes)
 
-- [Laravel 5.4 Advanced](https://prog.tube/laravel-54-advanced) (4 videos, 53 minutes)
+- [Laravel 5.4 Advanced](https://prog.tube/laravel-54-advanced) (8 videos, 1 hours 27 minutes)
 
-- [Webpack 2 Basics](https://prog.tube/webpack-2-basics) (6 videos, 1 hours 30 minutes)
+- [Webpack 2 Basics](https://prog.tube/webpack-2-basics) (7 videos, 1 hours 37 minutes)
 
 - [Vue.js 2 & Vuex (Basics)](https://prog.tube/vuejs-2-vuex-basics) (5 videos, 50 minutes)
 
@@ -195,7 +195,7 @@ This is a list of programming courses that are available for free. We separated 
 
 - [FuelPHP](https://prog.tube/fuelphp) (2 videos, 1 hours 2 minutes)
 
-- [Development with Electron Atom](https://prog.tube/development-with-electron-atom) (22 videos, 3 hours 58 minutes)
+- [Development with Electron Atom](https://prog.tube/development-with-electron-atom) (23 videos, 4 hours 12 minutes)
 
 - [Qt Tutorials For Beginners](https://prog.tube/qt-tutorials-for-beginners) (33 videos, 13 hours 30 minutes)
 
@@ -213,9 +213,9 @@ This is a list of programming courses that are available for free. We separated 
 
 - [Spring Framework Tutorial Videos](https://prog.tube/spring-framework-tutorial-videos) (10 videos, 10 hours 53 minutes)
 
-- [Node.Js Tutorial Videos](https://prog.tube/nodejs-tutorial-videos) (16 videos, 15 hours 6 minutes)
+- [Node.Js Tutorial Videos](https://prog.tube/nodejs-tutorial-videos) (18 videos, 17 hours 8 minutes)
 
-- [Java/J2EE & SOA Tutorial Videos](https://prog.tube/javaj2ee-soa-tutorial-videos) (55 videos, 12 hours 57 minutes)
+- [Java/J2EE & SOA Tutorial Videos](https://prog.tube/javaj2ee-soa-tutorial-videos) (57 videos, 14 hours 43 minutes)
 
 - [JavaScript Basics](https://prog.tube/javascript-basics) (33 videos, 2 hours 43 minutes)
 
@@ -229,7 +229,7 @@ This is a list of programming courses that are available for free. We separated 
 
 - [Linux Command Line Tutorial For Beginners](https://prog.tube/linux-command-line-tutorial-for-beginners) (43 videos, 14 hours 23 minutes)
 
-- [Vue js 2 Tutorial](https://prog.tube/vue-js-2-tutorial) (5 videos, 2 hours)
+- [Vue js 2 Tutorial](https://prog.tube/vue-js-2-tutorial) (29 videos, 3 hours 54 minutes)
 
 - [React Tutorials](https://prog.tube/react-tutorials) (16 videos, 1 hours 54 minutes)
 
@@ -237,7 +237,7 @@ This is a list of programming courses that are available for free. We separated 
 
 - [JavaScript ES6 Tutorials](https://prog.tube/javascript-es6-tutorials) (11 videos, 1 hours 14 minutes)
 
-- [Learn Swift](https://prog.tube/learn-swift) (17 videos, 3 hours 14 minutes)
+- [Learn Swift](https://prog.tube/learn-swift) (19 videos, 3 hours 42 minutes)
 
 - [Learning TypeScript](https://prog.tube/learning-typescript) (9 videos, 50 minutes)
 
@@ -323,9 +323,9 @@ This is a list of programming courses that are available for free. We separated 
 
 - [Hadoop Administration Training Videos](https://prog.tube/hadoop-administration-training-videos) (26 videos, 22 minutes)
 
-- [Python For Big Data Analytics Tutorial Videos](https://prog.tube/python-for-big-data-analytics-tutorial-videos) (49 videos, 11 hours 12 minutes)
+- [Python For Big Data Analytics Tutorial Videos](https://prog.tube/python-for-big-data-analytics-tutorial-videos) (53 videos, 13 hours 42 minutes)
 
-- [Kubernetes Webinars](https://prog.tube/kubernetes-webinars) (8 videos, 7 hours 56 minutes)
+- [Kubernetes Webinars](https://prog.tube/kubernetes-webinars) (9 videos, 8 hours 37 minutes)
 
 - [Cloud Computing and Microsoft Azure Training](https://prog.tube/cloud-computing-and-microsoft-azure-training) (6 videos, 2 hours 47 minutes)
 
@@ -343,7 +343,7 @@ This is a list of programming courses that are available for free. We separated 
 
 - [DevOps Tutorial For Beginners](https://prog.tube/devops-tutorial-for-beginners) (9 videos, 10 hours)
 
-- [Big Data Analytics Tutorial Videos](https://prog.tube/big-data-analytics-tutorial-videos) (41 videos, 2 hours)
+- [Big Data Analytics Tutorial Videos](https://prog.tube/big-data-analytics-tutorial-videos) (42 videos, 2 hours)
 
 - [Get started with Jenkins](https://prog.tube/get-started-with-jenkins) (12 videos, 1 hours 12 minutes)
 
@@ -365,7 +365,7 @@ This is a list of programming courses that are available for free. We separated 
 
 - [Magento Community Tutorials (Step by Step)](https://prog.tube/magento-community-tutorials-step-by-step) (24 videos, 3 hours 34 minutes)
 
-- [Salesforce Training Videos for Beginners](https://prog.tube/salesforce-training-videos-for-beginners) (8 videos, 11 hours 13 minutes)
+- [Salesforce Training Videos for Beginners](https://prog.tube/salesforce-training-videos-for-beginners) (11 videos, 18 hours 14 minutes)
 
 - [WooCommerce Tutorials](https://prog.tube/woocommerce-tutorials) (9 videos, 1 hours 31 minutes)
 
