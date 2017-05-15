@@ -7,7 +7,7 @@ This is a list of programming courses that are available for free. We separated 
 
 - [Laravel 5.3 for Beginners](https://prog.tube/laravel-53-for-beginners) (38 videos, 4 hours 55 minutes)
 
-- [Vue 2.0 and Laravel 5.3](https://prog.tube/vue-20-and-laravel-53) (22 videos, 3 hours 40 minutes)
+- [Vue 2.0 and Laravel 5.3](https://prog.tube/vue-20-and-laravel-53) (23 videos, 3 hours 58 minutes)
 
 - [Does it React?](https://prog.tube/does-it-react) (8 videos, 26 minutes)
 
@@ -69,7 +69,7 @@ This is a list of programming courses that are available for free. We separated 
 
 - [Vue.js Fundamentals](https://prog.tube/vuejs-fundamentals) (10 videos, 2 hours 37 minutes)
 
-- [Laravel 5.4 Advanced](https://prog.tube/laravel-54-advanced) (8 videos, 1 hours 27 minutes)
+- [Laravel 5.4 Advanced](https://prog.tube/laravel-54-advanced) (9 videos, 1 hours 32 minutes)
 
 - [Webpack 2 Basics](https://prog.tube/webpack-2-basics) (7 videos, 1 hours 37 minutes)
 
@@ -225,11 +225,11 @@ This is a list of programming courses that are available for free. We separated 
 
 - [ReactJS Basics](https://prog.tube/reactjs-basics) (17 videos, 2 hours 39 minutes)
 
-- [Shell Scripting Tutorial for Beginners](https://prog.tube/shell-scripting-tutorial-for-beginners) (20 videos, 2 hours 54 minutes)
+- [Shell Scripting Tutorial for Beginners](https://prog.tube/shell-scripting-tutorial-for-beginners) (21 videos, 3 hours 1 minutes)
 
-- [Linux Command Line Tutorial For Beginners](https://prog.tube/linux-command-line-tutorial-for-beginners) (43 videos, 14 hours 23 minutes)
+- [Linux Command Line Tutorial For Beginners](https://prog.tube/linux-command-line-tutorial-for-beginners) (43 videos, 14 hours 31 minutes)
 
-- [Vue js 2 Tutorial](https://prog.tube/vue-js-2-tutorial) (29 videos, 3 hours 54 minutes)
+- [Vue js 2 Tutorial](https://prog.tube/vue-js-2-tutorial) (31 videos, 4 hours 7 minutes)
 
 - [React Tutorials](https://prog.tube/react-tutorials) (16 videos, 1 hours 54 minutes)
 
