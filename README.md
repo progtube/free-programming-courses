@@ -35,7 +35,7 @@ This is a list of programming courses that are available for free. We separated 
 
 - [Build A Website With Foundation and Sass](https://prog.tube/build-a-website-with-foundation-and-sass) (3 videos, 1 hours 23 minutes)
 
-- [Twitter Bootstrap](https://prog.tube/twitter-bootstrap) (4 videos, 3 hours 54 minutes)
+- [Twitter Bootstrap](https://prog.tube/twitter-bootstrap) (5 videos, 4 hours 6 minutes)
 
 - [Angular 2 Spotify App](https://prog.tube/angular-2-spotify-app) (8 videos, 1 hours 37 minutes)
 
@@ -225,9 +225,9 @@ This is a list of programming courses that are available for free. We separated 
 
 - [ReactJS Basics](https://prog.tube/reactjs-basics) (17 videos, 2 hours 39 minutes)
 
-- [Shell Scripting Tutorial for Beginners](https://prog.tube/shell-scripting-tutorial-for-beginners) (21 videos, 3 hours 1 minutes)
+- [Shell Scripting Tutorial for Beginners](https://prog.tube/shell-scripting-tutorial-for-beginners) (22 videos, 3 hours 8 minutes)
 
-- [Linux Command Line Tutorial For Beginners](https://prog.tube/linux-command-line-tutorial-for-beginners) (43 videos, 14 hours 31 minutes)
+- [Linux Command Line Tutorial For Beginners](https://prog.tube/linux-command-line-tutorial-for-beginners) (43 videos, 14 hours 37 minutes)
 
 - [Vue js 2 Tutorial](https://prog.tube/vue-js-2-tutorial) (33 videos, 4 hours 28 minutes)
 
