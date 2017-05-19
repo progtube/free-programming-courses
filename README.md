@@ -211,7 +211,7 @@ This is a list of programming courses that are available for free. We separated 
 
 - [Apache Spark and Scala Tutorial Videos](https://prog.tube/apache-spark-and-scala-tutorial-videos) (39 videos, 6 hours 46 minutes)
 
-- [Spring Framework Tutorial Videos](https://prog.tube/spring-framework-tutorial-videos) (10 videos, 10 hours 53 minutes)
+- [Spring Framework Tutorial Videos](https://prog.tube/spring-framework-tutorial-videos) (11 videos, 11 hours 51 minutes)
 
 - [Node.Js Tutorial Videos](https://prog.tube/nodejs-tutorial-videos) (18 videos, 17 hours 8 minutes)
 
@@ -229,7 +229,7 @@ This is a list of programming courses that are available for free. We separated 
 
 - [Linux Command Line Tutorial For Beginners](https://prog.tube/linux-command-line-tutorial-for-beginners) (43 videos, 14 hours 37 minutes)
 
-- [Vue js 2 Tutorial](https://prog.tube/vue-js-2-tutorial) (33 videos, 4 hours 28 minutes)
+- [Vue js 2 Tutorial](https://prog.tube/vue-js-2-tutorial) (35 videos, 4 hours 45 minutes)
 
 - [React Tutorials](https://prog.tube/react-tutorials) (16 videos, 1 hours 54 minutes)
 
