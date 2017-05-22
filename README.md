@@ -117,6 +117,12 @@ This is a list of programming courses that are available for free. We separated 
 
 - [Build Advanced Blog/ CMS from Start to Finish](https://prog.tube/build-advanced-blog-cms-from-start-to-finish) (6 videos, 2 hours 17 minutes)
 
+- [Mega Tutorial - Build a Web App](https://prog.tube/mega-tutorial-build-a-web-app) (14 videos, 4 hours 29 minutes)
+
+- [Learning Angular 4 from Scratch](https://prog.tube/learning-angular-4-from-scratch) (12 videos, 1 hours 21 minutes)
+
+- [Beginner React JS Tutorial 2016](https://prog.tube/beginner-react-js-tutorial-2016) (13 videos, 1 hours 36 minutes)
+
 ### [Mobile Apps](https://prog.tube/courses/mobile-apps)
 
 - [Android Apps Development Bangla Tutorial by Mosharrof Rubel](https://prog.tube/android-apps-development-bangla-tutorial-by-mosharrof-rubel) (30 videos, 7 hours 9 minutes)
@@ -156,6 +162,8 @@ This is a list of programming courses that are available for free. We separated 
 - [How To Make a Shopping App](https://prog.tube/how-to-make-a-shopping-app) (7 videos, 1 hours 32 minutes)
 
 - [How To Make a YouTube Video App](https://prog.tube/how-to-make-a-youtube-video-app) (13 videos, 2 hours 36 minutes)
+
+- [React Native Tutorial - Build Apps With React Native](https://prog.tube/react-native-tutorial-build-apps-with-react-native) (33 videos, 3 hours 25 minutes)
 
 ### [Programming Languages](https://prog.tube/courses/programming-languages)
 
@@ -225,11 +233,11 @@ This is a list of programming courses that are available for free. We separated 
 
 - [ReactJS Basics](https://prog.tube/reactjs-basics) (17 videos, 2 hours 39 minutes)
 
-- [Shell Scripting Tutorial for Beginners](https://prog.tube/shell-scripting-tutorial-for-beginners) (22 videos, 3 hours 8 minutes)
+- [Shell Scripting Tutorial for Beginners](https://prog.tube/shell-scripting-tutorial-for-beginners) (24 videos, 3 hours 26 minutes)
 
-- [Linux Command Line Tutorial For Beginners](https://prog.tube/linux-command-line-tutorial-for-beginners) (43 videos, 14 hours 37 minutes)
+- [Linux Command Line Tutorial For Beginners](https://prog.tube/linux-command-line-tutorial-for-beginners) (43 videos, 14 hours 56 minutes)
 
-- [Vue js 2 Tutorial](https://prog.tube/vue-js-2-tutorial) (35 videos, 4 hours 45 minutes)
+- [Vue js 2 Tutorial](https://prog.tube/vue-js-2-tutorial) (36 videos, 4 hours 52 minutes)
 
 - [React Tutorials](https://prog.tube/react-tutorials) (16 videos, 1 hours 54 minutes)
 
@@ -256,6 +264,8 @@ This is a list of programming courses that are available for free. We separated 
 - [Clean Code - Beau teaches JavaScript](https://prog.tube/clean-code-beau-teaches-javascript) (8 videos, 56 minutes)
 
 - [Data Structures and Algorithms - Beau teaches JavaScript](https://prog.tube/data-structures-and-algorithms-beau-teaches-javascript) (6 videos, 1 hours 9 minutes)
+
+- [Javascript Beginner Tutorial](https://prog.tube/javascript-beginner-tutorial) (3 videos, 18 minutes)
 
 ### [Game Development](https://prog.tube/courses/game-development)
 
@@ -358,6 +368,16 @@ This is a list of programming courses that are available for free. We separated 
 - [Kibana Tutorials](https://prog.tube/kibana-tutorials) (3 videos, 46 minutes)
 
 - [Elasticsearch](https://prog.tube/elasticsearch) (10 videos, 1 hours 51 minutes)
+
+- [Deep Learning with Tensorflow](https://prog.tube/deep-learning-with-tensorflow) (28 videos, 2 hours 6 minutes)
+
+- [Data Science 101](https://prog.tube/data-science-101) (11 videos, 42 minutes)
+
+- [Data Science Methodology](https://prog.tube/data-science-methodology) (14 videos, 52 minutes)
+
+- [Data Science Hands on with Open Source Tools](https://prog.tube/data-science-hands-on-with-open-source-tools) (27 videos, 1 hours 26 minutes)
+
+- [Machine Learning with Python](https://prog.tube/machine-learning-with-python) (23 videos, 1 hours 30 minutes)
 
 ### [E-Commerce](https://prog.tube/courses/e-commerce)
 
