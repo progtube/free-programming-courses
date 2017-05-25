@@ -225,7 +225,7 @@ This is a list of programming courses that are available for free. We separated 
 
 - [Java/J2EE & SOA Tutorial Videos](https://prog.tube/javaj2ee-soa-tutorial-videos) (57 videos, 14 hours 43 minutes)
 
-- [JavaScript Basics](https://prog.tube/javascript-basics) (33 videos, 2 hours 43 minutes)
+- [JavaScript Basics](https://prog.tube/javascript-basics) (34 videos, 2 hours 46 minutes)
 
 - [ES6 - Beau teaches JavaScript](https://prog.tube/es6-beau-teaches-javascript) (10 videos, 58 minutes)
 
