@@ -163,8 +163,6 @@ This is a list of programming courses that are available for free. We separated 
 
 - [How To Make a YouTube Video App](https://prog.tube/how-to-make-a-youtube-video-app) (13 videos, 2 hours 36 minutes)
 
-- [React Native Tutorial - Build Apps With React Native](https://prog.tube/react-native-tutorial-build-apps-with-react-native) (33 videos, 3 hours 25 minutes)
-
 ### [Programming Languages](https://prog.tube/courses/programming-languages)
 
 - [PHP Tutorial for Beginners (For Absolute Beginners)](https://prog.tube/php-tutorial-for-beginners-for-absolute-beginners) (34 videos, 10 hours 58 minutes)
@@ -237,7 +235,7 @@ This is a list of programming courses that are available for free. We separated 
 
 - [Linux Command Line Tutorial For Beginners](https://prog.tube/linux-command-line-tutorial-for-beginners) (43 videos, 15 hours 8 minutes)
 
-- [Vue js 2 Tutorial](https://prog.tube/vue-js-2-tutorial) (40 videos, 5 hours 16 minutes)
+- [Vue js 2 Tutorial](https://prog.tube/vue-js-2-tutorial) (42 videos, 5 hours 33 minutes)
 
 - [React Tutorials](https://prog.tube/react-tutorials) (16 videos, 1 hours 54 minutes)
 
@@ -266,6 +264,8 @@ This is a list of programming courses that are available for free. We separated 
 - [Data Structures and Algorithms - Beau teaches JavaScript](https://prog.tube/data-structures-and-algorithms-beau-teaches-javascript) (6 videos, 1 hours 9 minutes)
 
 - [Javascript Beginner Tutorial](https://prog.tube/javascript-beginner-tutorial) (3 videos, 18 minutes)
+
+- [Kotlin Tutorial for Beginners: Basics and Fundamentals for Android](https://prog.tube/kotlin-tutorial-for-beginners-basics-and-fundamentals-for-android) (15 videos, 1 hours 21 minutes)
 
 ### [Game Development](https://prog.tube/courses/game-development)
 
