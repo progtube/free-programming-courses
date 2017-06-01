@@ -217,7 +217,7 @@ This is a list of programming courses that are available for free. We separated 
 
 - [Apache Spark and Scala Tutorial Videos](https://prog.tube/apache-spark-and-scala-tutorial-videos) (39 videos, 6 hours 46 minutes)
 
-- [Spring Framework Tutorial Videos](https://prog.tube/spring-framework-tutorial-videos) (11 videos, 11 hours 51 minutes)
+- [Spring Framework Tutorial Videos](https://prog.tube/spring-framework-tutorial-videos) (12 videos, 12 hours 32 minutes)
 
 - [Node.Js Tutorial Videos](https://prog.tube/nodejs-tutorial-videos) (18 videos, 17 hours 8 minutes)
 
@@ -335,7 +335,7 @@ This is a list of programming courses that are available for free. We separated 
 
 - [Python For Big Data Analytics Tutorial Videos](https://prog.tube/python-for-big-data-analytics-tutorial-videos) (54 videos, 14 hours 22 minutes)
 
-- [Kubernetes Webinars](https://prog.tube/kubernetes-webinars) (9 videos, 8 hours 37 minutes)
+- [Kubernetes Webinars](https://prog.tube/kubernetes-webinars) (10 videos, 9 hours 37 minutes)
 
 - [Cloud Computing and Microsoft Azure Training](https://prog.tube/cloud-computing-and-microsoft-azure-training) (6 videos, 2 hours 47 minutes)
 
