@@ -231,9 +231,9 @@ This is a list of programming courses that are available for free. We separated 
 
 - [ReactJS Basics](https://prog.tube/reactjs-basics) (17 videos, 2 hours 39 minutes)
 
-- [Shell Scripting Tutorial for Beginners](https://prog.tube/shell-scripting-tutorial-for-beginners) (27 videos, 4 hours 7 minutes)
+- [Shell Scripting Tutorial for Beginners](https://prog.tube/shell-scripting-tutorial-for-beginners) (28 videos, 4 hours 14 minutes)
 
-- [Linux Command Line Tutorial For Beginners](https://prog.tube/linux-command-line-tutorial-for-beginners) (43 videos, 15 hours 37 minutes)
+- [Linux Command Line Tutorial For Beginners](https://prog.tube/linux-command-line-tutorial-for-beginners) (43 videos, 15 hours 44 minutes)
 
 - [Vue js 2 Tutorial](https://prog.tube/vue-js-2-tutorial) (44 videos, 5 hours 56 minutes)
 
