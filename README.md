@@ -217,7 +217,7 @@ This is a list of programming courses that are available for free. We separated 
 
 - [Apache Spark and Scala Tutorial Videos](https://prog.tube/apache-spark-and-scala-tutorial-videos) (39 videos, 6 hours 46 minutes)
 
-- [Spring Framework Tutorial Videos](https://prog.tube/spring-framework-tutorial-videos) (12 videos, 12 hours 32 minutes)
+- [Spring Framework Tutorial Videos](https://prog.tube/spring-framework-tutorial-videos) (13 videos, 13 hours 23 minutes)
 
 - [Node.Js Tutorial Videos](https://prog.tube/nodejs-tutorial-videos) (18 videos, 17 hours 8 minutes)
 
