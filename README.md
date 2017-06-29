@@ -333,7 +333,7 @@ This is a list of programming courses that are available for free. We separated 
 
 - [Hadoop Administration Training Videos](https://prog.tube/hadoop-administration-training-videos) (26 videos, 22 minutes)
 
-- [Python For Big Data Analytics Tutorial Videos](https://prog.tube/python-for-big-data-analytics-tutorial-videos) (54 videos, 14 hours 22 minutes)
+- [Python For Big Data Analytics Tutorial Videos](https://prog.tube/python-for-big-data-analytics-tutorial-videos) (55 videos, 15 hours 54 minutes)
 
 - [Kubernetes Webinars](https://prog.tube/kubernetes-webinars) (10 videos, 9 hours 37 minutes)
 
@@ -353,7 +353,7 @@ This is a list of programming courses that are available for free. We separated 
 
 - [DevOps Tutorial For Beginners](https://prog.tube/devops-tutorial-for-beginners) (10 videos, 11 hours 7 minutes)
 
-- [Big Data Analytics Tutorial Videos](https://prog.tube/big-data-analytics-tutorial-videos) (49 videos, 2 hours)
+- [Big Data Analytics Tutorial Videos](https://prog.tube/big-data-analytics-tutorial-videos) (54 videos, 2 hours)
 
 - [Get started with Jenkins](https://prog.tube/get-started-with-jenkins) (12 videos, 1 hours 12 minutes)
 
