@@ -351,7 +351,7 @@ This is a list of programming courses that are available for free. We separated 
 
 - [Getting Started with Agile tutorial](https://prog.tube/getting-started-with-agile-tutorial) (5 videos, 56 minutes)
 
-- [DevOps Tutorial For Beginners](https://prog.tube/devops-tutorial-for-beginners) (10 videos, 11 hours 7 minutes)
+- [DevOps Tutorial For Beginners](https://prog.tube/devops-tutorial-for-beginners) (10 videos, 10 hours)
 
 - [Big Data Analytics Tutorial Videos](https://prog.tube/big-data-analytics-tutorial-videos) (54 videos, 2 hours)
 
