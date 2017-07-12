@@ -331,7 +331,7 @@ This is a list of programming courses that are available for free. We separated 
 
 - [Elasticsearch - Logstash - Kibana (ELK Stack)](https://prog.tube/elasticsearch-logstash-kibana-elk-stack) (5 videos, 31 minutes)
 
-- [Hadoop Administration Training Videos](https://prog.tube/hadoop-administration-training-videos) (26 videos, 22 minutes)
+- [Hadoop Administration Training Videos](https://prog.tube/hadoop-administration-training-videos) (27 videos, 1 hours 40 minutes)
 
 - [Python For Big Data Analytics Tutorial Videos](https://prog.tube/python-for-big-data-analytics-tutorial-videos) (55 videos, 15 hours 54 minutes)
 
