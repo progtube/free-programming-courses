@@ -215,7 +215,7 @@ This is a list of programming courses that are available for free. We separated 
 
 - [Perl Scripting Tutorial Videos](https://prog.tube/perl-scripting-tutorial-videos) (11 videos, 11 hours 36 minutes)
 
-- [Apache Spark and Scala Tutorial Videos](https://prog.tube/apache-spark-and-scala-tutorial-videos) (39 videos, 6 hours 46 minutes)
+- [Apache Spark and Scala Tutorial Videos](https://prog.tube/apache-spark-and-scala-tutorial-videos) (40 videos, 7 hours 47 minutes)
 
 - [Spring Framework Tutorial Videos](https://prog.tube/spring-framework-tutorial-videos) (13 videos, 13 hours 23 minutes)
 
@@ -353,7 +353,7 @@ This is a list of programming courses that are available for free. We separated 
 
 - [DevOps Tutorial For Beginners](https://prog.tube/devops-tutorial-for-beginners) (10 videos, 10 hours)
 
-- [Big Data Analytics Tutorial Videos](https://prog.tube/big-data-analytics-tutorial-videos) (57 videos, 2 hours)
+- [Big Data Analytics Tutorial Videos](https://prog.tube/big-data-analytics-tutorial-videos) (58 videos, 2 hours)
 
 - [Get started with Jenkins](https://prog.tube/get-started-with-jenkins) (12 videos, 1 hours 12 minutes)
 
