@@ -335,7 +335,7 @@ This is a list of programming courses that are available for free. We separated 
 
 - [Python For Big Data Analytics Tutorial Videos](https://prog.tube/python-for-big-data-analytics-tutorial-videos) (55 videos, 15 hours 54 minutes)
 
-- [Kubernetes Webinars](https://prog.tube/kubernetes-webinars) (11 videos, 10 hours 28 minutes)
+- [Kubernetes Webinars](https://prog.tube/kubernetes-webinars) (12 videos, 11 hours 17 minutes)
 
 - [Cloud Computing and Microsoft Azure Training](https://prog.tube/cloud-computing-and-microsoft-azure-training) (6 videos, 2 hours 47 minutes)
 
