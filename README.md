@@ -73,7 +73,7 @@ This is a list of programming courses that are available for free. We separated 
 
 - [Webpack 2 Basics](https://prog.tube/webpack-2-basics) (7 videos, 1 hours 37 minutes)
 
-- [Vue.js 2 & Vuex (Basics)](https://prog.tube/vuejs-2-vuex-basics) (5 videos, 50 minutes)
+- [Vue.js 2 & Vuex (Basics)](https://prog.tube/vuejs-2-vuex-basics) (6 videos, 1 hours 6 minutes)
 
 - [Vue.js 2 - Getting Started](https://prog.tube/vuejs-2-getting-started) (12 videos, 1 hours 48 minutes)
 
@@ -162,6 +162,8 @@ This is a list of programming courses that are available for free. We separated 
 - [How To Make a Shopping App](https://prog.tube/how-to-make-a-shopping-app) (7 videos, 1 hours 32 minutes)
 
 - [How To Make a YouTube Video App](https://prog.tube/how-to-make-a-youtube-video-app) (13 videos, 2 hours 36 minutes)
+
+- [Ionic 3 - News Reader Application](https://prog.tube/ionic-3-news-reader-application) (4 videos, 45 minutes)
 
 ### [Programming Languages](https://prog.tube/courses/programming-languages)
 
@@ -267,6 +269,12 @@ This is a list of programming courses that are available for free. We separated 
 
 - [Kotlin Tutorial for Beginners: Basics and Fundamentals for Android](https://prog.tube/kotlin-tutorial-for-beginners-basics-and-fundamentals-for-android) (15 videos, 1 hours 21 minutes)
 
+- [Angular 4 Essentials](https://prog.tube/angular-4-essentials) (5 videos, 28 minutes)
+
+- [Getting Started with Angular 2+](https://prog.tube/getting-started-with-angular-2) (13 videos, 1 hours 59 minutes)
+
+- [Getting Started with AngularJS - Free Tutorial](https://prog.tube/getting-started-with-angularjs-free-tutorial) (10 videos, 1 hours 15 minutes)
+
 ### [Game Development](https://prog.tube/courses/game-development)
 
 - [GameMaker: Studio - Android Tutorial Series](https://prog.tube/gamemaker-studio-android-tutorial-series) (7 videos, 1 hours 47 minutes)
@@ -333,7 +341,7 @@ This is a list of programming courses that are available for free. We separated 
 
 - [Hadoop Administration Training Videos](https://prog.tube/hadoop-administration-training-videos) (27 videos, 1 hours 40 minutes)
 
-- [Python For Big Data Analytics Tutorial Videos](https://prog.tube/python-for-big-data-analytics-tutorial-videos) (55 videos, 15 hours 54 minutes)
+- [Python For Big Data Analytics Tutorial Videos](https://prog.tube/python-for-big-data-analytics-tutorial-videos) (56 videos, 16 hours 40 minutes)
 
 - [Kubernetes Webinars](https://prog.tube/kubernetes-webinars) (12 videos, 11 hours 17 minutes)
 
