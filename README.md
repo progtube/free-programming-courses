@@ -393,7 +393,7 @@ This is a list of programming courses that are available for free. We separated 
 
 - [Magento Community Tutorials (Step by Step)](https://prog.tube/magento-community-tutorials-step-by-step) (24 videos, 3 hours 34 minutes)
 
-- [Salesforce Training Videos for Beginners](https://prog.tube/salesforce-training-videos-for-beginners) (11 videos, 18 hours 14 minutes)
+- [Salesforce Training Videos for Beginners](https://prog.tube/salesforce-training-videos-for-beginners) (12 videos, 18 hours 58 minutes)
 
 - [WooCommerce Tutorials](https://prog.tube/woocommerce-tutorials) (9 videos, 1 hours 31 minutes)
 
