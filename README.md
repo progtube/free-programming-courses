@@ -313,7 +313,7 @@ This is a list of programming courses that are available for free. We separated 
 
 ### [Software Testing](https://prog.tube/courses/software-testing)
 
-- [Testing with Selenium Webdriver Tutorial Videos](https://prog.tube/testing-with-selenium-webdriver-tutorial-videos) (23 videos, 2 hours 51 minutes)
+- [Testing with Selenium Webdriver Tutorial Videos](https://prog.tube/testing-with-selenium-webdriver-tutorial-videos) (24 videos, 3 hours 20 minutes)
 
 - [Software Testing Videos](https://prog.tube/software-testing-videos) (9 videos, 5 hours 12 minutes)
 
