@@ -73,7 +73,7 @@ This is a list of programming courses that are available for free. We separated 
 
 - [Webpack 2 Basics](https://prog.tube/webpack-2-basics) (7 videos, 1 hours 37 minutes)
 
-- [Vue.js 2 & Vuex (Basics)](https://prog.tube/vuejs-2-vuex-basics) (6 videos, 1 hours 6 minutes)
+- [Vue.js 2 & Vuex (Basics)](https://prog.tube/vuejs-2-vuex-basics) (7 videos, 1 hours 27 minutes)
 
 - [Vue.js 2 - Getting Started](https://prog.tube/vuejs-2-getting-started) (12 videos, 1 hours 48 minutes)
 
@@ -341,7 +341,7 @@ This is a list of programming courses that are available for free. We separated 
 
 - [Hadoop Administration Training Videos](https://prog.tube/hadoop-administration-training-videos) (27 videos, 1 hours 40 minutes)
 
-- [Python For Big Data Analytics Tutorial Videos](https://prog.tube/python-for-big-data-analytics-tutorial-videos) (57 videos, 17 hours 4 minutes)
+- [Python For Big Data Analytics Tutorial Videos](https://prog.tube/python-for-big-data-analytics-tutorial-videos) (58 videos, 17 hours 19 minutes)
 
 - [Kubernetes Webinars](https://prog.tube/kubernetes-webinars) (12 videos, 11 hours 17 minutes)
 
