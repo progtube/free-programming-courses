@@ -139,7 +139,7 @@ This is a list of programming courses that are available for free. We separated 
 
 - [NoSQL Mobile Development](https://prog.tube/nosql-mobile-development) (2 videos, 2 hours 16 minutes)
 
-- [Realictis App Development](https://prog.tube/realictis-app-development) (29 videos, 19 hours 28 minutes)
+- [Realictis App Development](https://prog.tube/realictis-app-development) (31 videos, 20 hours 34 minutes)
 
 - [Stanford - Developing iOS 9 Apps with Swift \[2016\]](https://prog.tube/stanford-developing-ios-9-apps-with-swift-2016) (18 videos, 22 hours 35 minutes)
 
@@ -359,7 +359,7 @@ This is a list of programming courses that are available for free. We separated 
 
 - [Getting Started with Agile tutorial](https://prog.tube/getting-started-with-agile-tutorial) (5 videos, 56 minutes)
 
-- [DevOps Tutorial For Beginners](https://prog.tube/devops-tutorial-for-beginners) (10 videos, 10 hours)
+- [DevOps Tutorial For Beginners](https://prog.tube/devops-tutorial-for-beginners) (12 videos, 10 hours 10 minutes)
 
 - [Big Data Analytics Tutorial Videos](https://prog.tube/big-data-analytics-tutorial-videos) (67 videos, 2 hours)
 
