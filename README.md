@@ -35,7 +35,7 @@ This is a list of programming courses that are available for free. We separated 
 
 - [Build A Website With Foundation and Sass](https://prog.tube/build-a-website-with-foundation-and-sass) (3 videos, 1 hours 23 minutes)
 
-- [Twitter Bootstrap](https://prog.tube/twitter-bootstrap) (5 videos, 4 hours 6 minutes)
+- [Twitter Bootstrap](https://prog.tube/twitter-bootstrap) (6 videos, 4 hours 59 minutes)
 
 - [Angular 2 Spotify App](https://prog.tube/angular-2-spotify-app) (8 videos, 1 hours 37 minutes)
 
@@ -139,7 +139,7 @@ This is a list of programming courses that are available for free. We separated 
 
 - [NoSQL Mobile Development](https://prog.tube/nosql-mobile-development) (2 videos, 2 hours 16 minutes)
 
-- [Realictis App Development](https://prog.tube/realictis-app-development) (31 videos, 20 hours 34 minutes)
+- [Realictis App Development](https://prog.tube/realictis-app-development) (33 videos, 21 hours 26 minutes)
 
 - [Stanford - Developing iOS 9 Apps with Swift \[2016\]](https://prog.tube/stanford-developing-ios-9-apps-with-swift-2016) (18 videos, 22 hours 35 minutes)
 
@@ -313,7 +313,7 @@ This is a list of programming courses that are available for free. We separated 
 
 ### [Software Testing](https://prog.tube/courses/software-testing)
 
-- [Testing with Selenium Webdriver Tutorial Videos](https://prog.tube/testing-with-selenium-webdriver-tutorial-videos) (24 videos, 3 hours 20 minutes)
+- [Testing with Selenium Webdriver Tutorial Videos](https://prog.tube/testing-with-selenium-webdriver-tutorial-videos) (25 videos, 4 hours 3 minutes)
 
 - [Software Testing Videos](https://prog.tube/software-testing-videos) (9 videos, 5 hours 12 minutes)
 
@@ -327,9 +327,9 @@ This is a list of programming courses that are available for free. We separated 
 
 ### [Software Engineering](https://prog.tube/courses/software-engineering)
 
-- [Agile Scrum Master Training Videos](https://prog.tube/agile-scrum-master-training-videos) (24 videos, 7 hours 6 minutes)
+- [Agile Scrum Master Training Videos](https://prog.tube/agile-scrum-master-training-videos) (27 videos, 7 hours 30 minutes)
 
-- [Hadoop For Beginners (Big Data)](https://prog.tube/hadoop-for-beginners-big-data) (45 videos, 4 hours 53 minutes)
+- [Hadoop For Beginners (Big Data)](https://prog.tube/hadoop-for-beginners-big-data) (46 videos, 4 hours 57 minutes)
 
 - [Get started with AWS Lambda](https://prog.tube/get-started-with-aws-lambda) (9 videos, 1 hours 4 minutes)
 
@@ -339,19 +339,19 @@ This is a list of programming courses that are available for free. We separated 
 
 - [Elasticsearch - Logstash - Kibana (ELK Stack)](https://prog.tube/elasticsearch-logstash-kibana-elk-stack) (5 videos, 31 minutes)
 
-- [Hadoop Administration Training Videos](https://prog.tube/hadoop-administration-training-videos) (27 videos, 1 hours 40 minutes)
+- [Hadoop Administration Training Videos](https://prog.tube/hadoop-administration-training-videos) (27 videos, 1 hours 43 minutes)
 
 - [Python For Big Data Analytics Tutorial Videos](https://prog.tube/python-for-big-data-analytics-tutorial-videos) (58 videos, 17 hours 19 minutes)
 
-- [Kubernetes Webinars](https://prog.tube/kubernetes-webinars) (12 videos, 11 hours 17 minutes)
+- [Kubernetes Webinars](https://prog.tube/kubernetes-webinars) (14 videos, 13 hours)
 
-- [Cloud Computing and Microsoft Azure Training](https://prog.tube/cloud-computing-and-microsoft-azure-training) (6 videos, 2 hours 47 minutes)
+- [Cloud Computing and Microsoft Azure Training](https://prog.tube/cloud-computing-and-microsoft-azure-training) (6 videos, 41 minutes)
 
 - [IBM Bluemix Tutorial Videos](https://prog.tube/ibm-bluemix-tutorial-videos) (2 videos, 2 hours 13 minutes)
 
 - [Ansible Tutorial Videos | DevOps Tools](https://prog.tube/ansible-tutorial-videos-devops-tools) (2 videos, 3 hours 39 minutes)
 
-- [Docker Tutorial Videos | DevOps Tool](https://prog.tube/docker-tutorial-videos-devops-tool) (3 videos, 2 hours 28 minutes)
+- [Docker Tutorial Videos | DevOps Tool](https://prog.tube/docker-tutorial-videos-devops-tool) (4 videos, 3 hours 6 minutes)
 
 - [Apache Spark - Streaming](https://prog.tube/apache-spark-streaming) (9 videos, 2 hours 6 minutes)
 
@@ -359,9 +359,9 @@ This is a list of programming courses that are available for free. We separated 
 
 - [Getting Started with Agile tutorial](https://prog.tube/getting-started-with-agile-tutorial) (5 videos, 56 minutes)
 
-- [DevOps Tutorial For Beginners](https://prog.tube/devops-tutorial-for-beginners) (12 videos, 10 hours 10 minutes)
+- [DevOps Tutorial For Beginners](https://prog.tube/devops-tutorial-for-beginners) (29 videos, 16 hours 31 minutes)
 
-- [Big Data Analytics Tutorial Videos](https://prog.tube/big-data-analytics-tutorial-videos) (67 videos, 2 hours)
+- [Big Data Analytics Tutorial Videos](https://prog.tube/big-data-analytics-tutorial-videos) (77 videos, 2 hours)
 
 - [Get started with Jenkins](https://prog.tube/get-started-with-jenkins) (12 videos, 1 hours 12 minutes)
 
