@@ -351,7 +351,7 @@ This is a list of programming courses that are available for free. We separated 
 
 - [Ansible Tutorial Videos | DevOps Tools](https://prog.tube/ansible-tutorial-videos-devops-tools) (2 videos, 3 hours 39 minutes)
 
-- [Docker Tutorial Videos | DevOps Tool](https://prog.tube/docker-tutorial-videos-devops-tool) (4 videos, 3 hours 6 minutes)
+- [Docker Tutorial Videos | DevOps Tool](https://prog.tube/docker-tutorial-videos-devops-tool) (6 videos, 4 hours 52 minutes)
 
 - [Apache Spark - Streaming](https://prog.tube/apache-spark-streaming) (9 videos, 2 hours 6 minutes)
 
