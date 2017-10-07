@@ -329,7 +329,7 @@ This is a list of programming courses that are available for free. We separated 
 
 - [Agile Scrum Master Training Videos](https://prog.tube/agile-scrum-master-training-videos) (32 videos, 8 hours 7 minutes)
 
-- [Hadoop For Beginners (Big Data)](https://prog.tube/hadoop-for-beginners-big-data) (46 videos, 4 hours 57 minutes)
+- [Hadoop For Beginners (Big Data)](https://prog.tube/hadoop-for-beginners-big-data) (47 videos, 5 hours 44 minutes)
 
 - [Get started with AWS Lambda](https://prog.tube/get-started-with-aws-lambda) (9 videos, 1 hours 4 minutes)
 
@@ -361,7 +361,7 @@ This is a list of programming courses that are available for free. We separated 
 
 - [DevOps Tutorial For Beginners](https://prog.tube/devops-tutorial-for-beginners) (42 videos, 21 hours 23 minutes)
 
-- [Big Data Analytics Tutorial Videos](https://prog.tube/big-data-analytics-tutorial-videos) (77 videos, 2 hours)
+- [Big Data Analytics Tutorial Videos](https://prog.tube/big-data-analytics-tutorial-videos) (78 videos, 2 hours)
 
 - [Get started with Jenkins](https://prog.tube/get-started-with-jenkins) (12 videos, 1 hours 12 minutes)
 
