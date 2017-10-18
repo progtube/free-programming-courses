@@ -145,7 +145,7 @@ This is a list of programming courses that are available for free. We separated 
 
 - [How To Make an iPhone App with No Programming Experience (Xcode 7)](https://prog.tube/how-to-make-an-iphone-app-with-no-programming-experience-xcode-7) (17 videos, 3 hours 46 minutes)
 
-- [How To Make iPhone Apps With No Programming Experience (Xcode 8, Swift 3)](https://prog.tube/how-to-make-iphone-apps-with-no-programming-experience-xcode-8-swift-3) (20 videos, 3 hours 37 minutes)
+- [How To Make iPhone Apps With No Programming Experience (Xcode 8, Swift 3)](https://prog.tube/how-to-make-iphone-apps-with-no-programming-experience-xcode-8-swift-3) (21 videos, 1 hours 1 minutes)
 
 - [Ionic Mobile Framework](https://prog.tube/ionic-mobile-framework) (4 videos, 39 minutes)
 
@@ -403,7 +403,7 @@ This is a list of programming courses that are available for free. We separated 
 
 ### [Development Tools](https://prog.tube/courses/development-tools)
 
-- [PHP - PHPStorm Tutorials](https://prog.tube/php-phpstorm-tutorials) (7 videos, 31 minutes)
+- [PHP - PHPStorm Tutorials](https://prog.tube/php-phpstorm-tutorials) (8 videos, 34 minutes)
 
 - [Atom editor tutorial](https://prog.tube/atom-editor-tutorial) (24 videos, 1 hours 58 minutes)
 
